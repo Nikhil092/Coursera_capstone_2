@@ -1,3 +1,4 @@
 ## Coursera_capstone_2
-This repository has the following files
-Introduction / Business Problem 
+This repository has the following files <br>
+Introduction-Business Problem.pdf 
+Data.pdf
